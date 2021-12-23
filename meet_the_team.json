@@ -1,42 +1,49 @@
 {
-    "content": null,
-    "embeds": [
-      {
-        "title": "Rushindra Sinha",
-        "color": 16711680,
-        "image": {
-          "url": "https://cdn.discordapp.com/attachments/923419078885003314/923601280675495976/Rushi_Sir_-_Final_Nft_Post.png"
-        }
-      },
-      {
-        "title": "Mohit Israney",
-        "color": 5374207,
-        "image": {
-          "url": "https://cdn.discordapp.com/attachments/923419078885003314/923601524934979634/Mohit_Israney.png"
-        }
-      },
-      {
-        "title": "Rahul Hinduja",
-        "color": 16711680,
-        "image": {
-          "url": "https://cdn.discordapp.com/attachments/923419078885003314/923601865936097320/Emi_Sir_-_NFT_WORK.png"
-        }
-      },
-      {
-        "title": "Vatsal Uniyal",
-        "color": 26367,
-        "image": {
-          "url": "https://cdn.discordapp.com/attachments/923419078885003314/923602167057752094/Vatsal_uniyal_-_Esports_head3.png"
-        }
-      },
-      {
-        "title": "Gary Chiu",
-        "color": 5374207,
-        "image": {
-          "url": "https://cdn.discordapp.com/attachments/923419078885003314/923602506834145310/Gary_Chiu2.png"
-        }
+  "content": null,
+  "embeds": [
+    {
+      "title": "Rushindra Sinha",
+      "color": 16711680,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/923419078885003314/923601280675495976/Rushi_Sir_-_Final_Nft_Post.png"
       }
-    ],
-    "username": "Global eSports",
-    "avatar_url": "https://cdn.discordapp.com/attachments/923419078885003314/923419242135691264/global_esports_logo.png"
-  }
+    },
+    {
+      "title": "Mohit Israney",
+      "color": 5374207,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/923419078885003314/923601524934979634/Mohit_Israney.png"
+      }
+    },
+    {
+      "title": "Rahul Hinduja",
+      "color": 16711680,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/923419078885003314/923601865936097320/Emi_Sir_-_NFT_WORK.png"
+      }
+    },
+    {
+      "title": "Vatsal Uniyal",
+      "color": 26367,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/923419078885003314/923602167057752094/Vatsal_uniyal_-_Esports_head3.png"
+      }
+    },
+    {
+      "title": "Gary Chiu",
+      "color": 5374207,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/923419078885003314/923602506834145310/Gary_Chiu2.png"
+      }
+    },
+    {
+      "title": "Jaideep Sood",
+      "color": 16711680,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/923419078885003314/923617561604657162/FGLjyWaVEAQQhq3.png"
+      }
+    }
+  ],
+  "username": "Global eSports",
+  "avatar_url": "https://cdn.discordapp.com/attachments/923419078885003314/923419242135691264/global_esports_logo.png"
+}
